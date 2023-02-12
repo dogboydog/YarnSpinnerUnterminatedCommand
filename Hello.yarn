@@ -1,0 +1,13 @@
+title: Hello
+tags: 
+---
+<<my_command .
+Man: Hello
+===
+
+title: Hello2
+tags:
+---
+<<wait 1>>
+Normal node
+===
